@@ -1,0 +1,1 @@
+An accident detection system, developed using Java and Python and Raspberry Pi, is designed to extract the location and timestamp of an accident. It then promptly alerts the relevant authorities through an Android application.
